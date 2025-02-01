@@ -1,0 +1,175 @@
+Cliente: Oi, bom dia
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: oi, bom dia
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: Oi bom dia
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: oi bom dia
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas? 
+Cliente: OI
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: Oi
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: oi
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: Olá, bom dia
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: Olá
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: olá
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: Bom dia
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+Cliente: bom dia
+ChatBot: Gostinho da Casa, muito bom dia! Deseja ver os tamanhos e os precos das marmitas?
+
+
+Cliente: Sim, por favor
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: Sim por favor
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: Sim
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: sim
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: SIM
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: s
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: Por favor
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: por favor
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: POR FAVOR
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: PFVR
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: pfvr
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: Por gentileza
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: por gentileza
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+Cliente: POR GENTILEZA
+ChatBot: Marmita P custa R$: 15.00, digite = P. Marmita M custa R$: 20.00, digite = M. Marmita G custa R$: 25.00, digite = G.
+
+Cliente: P
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: p
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: P.C
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: p.c
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: pc
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: PC
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: P.S
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: p.s
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: ps
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: PS
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: P.P
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: p.p
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: pp
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: PP
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: P.G
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: p.g
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: pg
+ChatBot: Anotado! Algo para beber? Digite = P.C para Coca-Cola. Digite = P.S para Sprite. Digite = P.P para Pepsi. Digite = P.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: PG
+
+Cliente: M
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: m
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: M.C
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: m.c
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: MC
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: mc
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: M.S
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: m.s
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: MS
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: ms
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: M.P
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: m.p
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: MP
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: mp
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: M.G
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: m.g
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: MG
+ChatBot: Anotado! Algo para beber? Digite = M.C para Coca-Cola. Digite = M.S para Sprite. Digite = M.P para Pepsi. Digite = M.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: mg
+
+Cliente: G
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: g
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: G.C
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: g.c
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: GC
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: gc
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: G.S
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: g.s
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: GS
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: gs
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: G.P
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: g.p
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: GP
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: gp
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: G.G
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: g.g
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: GG
+ChatBot: Anotado! Algo para beber? Digite = G.C para Coca-Cola. Digite = G.S para Sprite. Digite = G.P para Pepsi. Digite = G.G para Guarana. Se nao querer, digite 'Finalizar pedido'.
+Cliente: gg
+
+Cliente: Finalizar pedido.
+ChatBot: Boa refeicao! Volte sempre! :P
+Cliente: Finalizar pedido
+ChatBot: Boa refeicao! Volte sempre! :P
+Cliente: finalizar pedido.
+ChatBot: Boa refeicao! Volte sempre! :P
+Cliente: finalizar pedido
+ChatBot: Boa refeicao! Volte sempre! :P
+Cliente: FINALIZAR PEDIDO.
+ChatBot: Boa refeicao! Volte sempre! :P
+Cliente: FINALIZAR PEDIDO
+ChatBot: Boa refeicao! Volte sempre! :P
